@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "905187884957",
+    "project_id": "test-7a857",
+    "storage_bucket": "test-7a857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905187884957:android:efa526e96d2f433cabb974",
+        "android_client_info": {
+          "package_name": "com.example.movein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905187884957-fu61tel2l5lg4306mmaiv8lmf249j9pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLB0x9723upcJelXNbzgJx-xA4uoMweTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905187884957-fu61tel2l5lg4306mmaiv8lmf249j9pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905187884957-jeirfth6pnbmh1kk51lh8cj600odnoav.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.movein"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
