@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.movein.app-mergeDebugResources-96:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "/Users/billystapleton/Documents/GitHub/movein/android/app/src/main/res/values-night-v31/styles.xml",
+                    "from": {
+                        "startLines": "3,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,1046",
+                        "endLines": "10,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "695,1197"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,582",
+                        "endLines": "9,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "577,733"
+                    }
+                }
+            ]
+        }
+    ]
+}

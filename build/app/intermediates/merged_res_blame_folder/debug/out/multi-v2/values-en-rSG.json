@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.movein.app-mergeDebugResources-96:/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "/Users/billystapleton/.gradle/caches/transforms-3/dd0643667a32b81842ced00c4da8386d/transformed/jetified-play-services-wallet-19.2.0/res/values-en-rSG/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "206",
+                        "endColumns": "70",
+                        "endOffsets": "276"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "74",
+                        "endOffsets": "125"
+                    }
+                }
+            ]
+        }
+    ]
+}
